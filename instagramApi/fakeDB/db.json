@@ -1,0 +1,15 @@
+{
+  "users":[
+    {"id":"",
+      "username":"",
+      "email":"",
+      "password":"",
+      "token":""}
+  ],
+  "photos":[
+    {"id":"",
+      "title":"",
+      "path":"",
+      "userId":""}
+  ]
+}
